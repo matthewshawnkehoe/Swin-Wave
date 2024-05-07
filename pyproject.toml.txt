@@ -1,0 +1,14 @@
+[project]
+name = "Swin-Wave"
+version = "0.1.0"
+description = "Reshaping visual data dynamics through Vision transformers"
+authors = [
+  {name = "Matthew Kehoe", email = "mskehoe001@gmail.com"}
+]
+maintainers = [
+  {name = "Matthew Kehoe", email = "mskehoe001@gmail.com"}
+]
+readme = "README.md"
+
+[project.dependencies]
+python = "^3.11"
