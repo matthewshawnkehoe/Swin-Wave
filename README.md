@@ -2,7 +2,7 @@
 A PyTorch implementation of the Swin Transformer for image processing.
 
 ## Description
-The Swin Transformer serves as a general-purpose backbone for computer vision and is built upon combining features from Convnets and the Vision transformer. We train multiple models using the Swin transformer.
+The Swin Transformer serves as a versatile framework for computer vision and is built upon combining features from Convnets and the Vision transformer. We train multiple models using the Swin transformer.
 
 ## Usage
 1. **Clone the repository:**
